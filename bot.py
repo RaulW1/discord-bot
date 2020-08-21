@@ -1,8 +1,3 @@
-#703043666788483192 client ID
-#67584 PERMISSIONS INTEGER
-#NzAzMDQzNjY2Nzg4NDgzMTky.XqI-Hg.lSy8AZlFNE0J6VF_iA177JN3A04 token
-#https://br.op.gg/champion/{champ}/statistics/{role}
-
 import discord
 
 W = 0
